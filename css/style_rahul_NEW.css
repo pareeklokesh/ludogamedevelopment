@@ -1129,7 +1129,7 @@ background: #191919 !important;
 }
 .platform .features-content {
   padding: 43px 15px;
-  min-height: 461px;
+  min-height: 440px;
   position: relative;
 }
 .platform .features-content::after {
