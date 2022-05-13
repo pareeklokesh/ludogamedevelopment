@@ -1297,7 +1297,7 @@ margin-bottom: 0 !important;
   width: 50%;
   margin-bottom: 40px;
 }
-.features-hover .features-content:hover {
+.features-content:hover {
   background: #ff9714;
 }
 
