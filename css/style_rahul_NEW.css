@@ -1129,7 +1129,7 @@ background: #191919 !important;
 }
 .platform .features-content {
   padding: 43px 15px;
-  min-height: 440px;
+  min-height: 415px;
   position: relative;
 }
 .platform .features-content::after {
@@ -1284,8 +1284,10 @@ margin-bottom: 0 !important;
 }
 .whychoose-list-new li {
   list-style: none;
-  display: flex;
-  flex-wrap: wrap;
+  display: flex;padding-right: 20px;
+}
+.whychoose-list-new {
+  padding-left: 0;
 }
 .whychoose-list-new {
   display: flex;
@@ -1302,6 +1304,9 @@ margin-bottom: 0 !important;
   .platform .features-content {
   min-height: inherit;
   margin-bottom: 25px;
+}
+.whychoose-list-new li {
+ width: 100%;
 }
 }
 
