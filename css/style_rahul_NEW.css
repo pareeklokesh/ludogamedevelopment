@@ -1164,12 +1164,11 @@ background: #191919 !important;
   background: url(../images/whychoose.jpg) !important;
 }
 .why_choose {
-  background: url(../images/whychoose.jpg) no-repeat !important;
-    background-attachment: scroll;
-    background-size: auto;
-  background-size: cover !important;
-  background-attachment: fixed !important;
-  position: relative;
+    background: url(../images/whychoose.jpg) no-repeat !important;
+position: relative;background-size: cover !important;
+}
+.why_choose .whuchooseall {
+  display: none !important;
 }
 .why_choose::before {
   background: #040402;
