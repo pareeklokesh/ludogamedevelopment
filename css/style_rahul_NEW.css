@@ -1220,7 +1220,7 @@ margin-bottom: 0 !important;
 }
 .faq .card .collapse {
   position: relative;
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
 .faq .card .collapse::after {
   content: "";
@@ -1229,7 +1229,7 @@ margin-bottom: 0 !important;
   height: 1px;
   background: #eaeaea;
   position: absolute;
-  bottom: -25px;
+  bottom: 0px;
 }
 .whychoose-list-new li strong {
   background: #1b6ee0;
