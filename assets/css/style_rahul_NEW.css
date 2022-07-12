@@ -1,10 +1,10 @@
-/*********************font family***********************/
+
 @font-face{
   font-family: 'OpenSans-Regular';
   src: url('../fonts/OpenSans-Regular.ttf');
+  font-display: swap;
 }
 
-/*********************common css***********************/
 body{
   font-family: 'OpenSans-Regular'!important;
 }
