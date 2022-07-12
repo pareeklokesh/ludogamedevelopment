@@ -1161,10 +1161,10 @@ background: #191919 !important;
   margin-bottom: 15px;
 }
 .why_choose {
-  background: url(../images/whychoose.jpg) !important;
+  background: url(../images/whychoose.avif) !important;
 }
 .why_choose {
-    background: url(../images/whychoose.jpg) no-repeat !important;
+    background: url(../images/whychoose.avif) no-repeat !important;
 position: relative;background-size: cover !important;
 }
 .why_choose .whuchooseall {
