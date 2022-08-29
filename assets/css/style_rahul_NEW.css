@@ -1409,30 +1409,3 @@ footer .icon_fixed .whatsapp_fixed {
   padding: 10px;
   display: flex;
 }
-.fix-content {
-  background: #000;
-  position: fixed;
-  bottom: 0;
-  z-index: 99;
-}
-.fix-content p {
-  color: white;
-padding: 15px;
-margin: 0;
-text-align: center;
-}
-footer {
-  margin-bottom: 54px;
-}
-
-@media (max-width: 767px) {
-  .fix-content {
-    position: static;
-margin-bottom: 60px;
-
-  }
-  footer {
-  margin-bottom: 0px;
-}
-
-  }
