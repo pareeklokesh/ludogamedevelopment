@@ -50,8 +50,11 @@
               <a class="navbar-brand rahul" href="index.html">
                   <img data-src="assets/images/logo.avif" loading="lazy" class="lazyload" id="id_logo">
               </a>
+              <a href="#" class="float dnonemb callbtn" ><i class="fab fa-whatsapp whatsapp_fixed" style="background:#2095f2;"><img src="assets/images/call.png" /></i></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-                <i class="fas fa-bars"><img src="assets/images/menu.png"></i>
+                <span class="menumb"></span>
+                <span class="menumb"></span>
+                <span class="menumb m-0"></span>
               </button>
               <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav ml-auto">
@@ -875,7 +878,7 @@ or Software Updates. We take care of all these.</p>
 
 
     <!-- The Modal -->
-    <div class="modal fade" id="myModal">
+    <div class="modal fade discuss-form" id="myModal">
       <div class="modal-dialog">
         <div class="modal-content">
         
@@ -1150,6 +1153,11 @@ if ($(this).scrollTop() > 1){
       'https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js';
     document.body.appendChild(script);
   }
+</script>
+<script>
+  $(document).ready(function(){       
+   $('#myModal').modal('show');
+    });
 </script>
 </body>
 </html>
