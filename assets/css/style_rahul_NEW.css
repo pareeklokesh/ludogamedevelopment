@@ -1409,3 +1409,104 @@ footer .icon_fixed .whatsapp_fixed {
   padding: 10px;
   display: flex;
 }
+
+.dnonemb {
+  display: none !important;
+}
+.callbtn i img {
+  width: 18px;
+}
+.callbtn i {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
+#myModal {
+  z-index: 999999;
+}
+.zsiq_floatmain.zsiq_theme1.siq_bR, .zsiq_custommain, .zsiq_floatmain {
+  z-index: 9999 !important;
+}
+.discuss-form .btn_outer .btn_btn {
+  font-size: 14px;
+  padding: 8px 5px !important;
+}
+
+
+
+@media (max-width: 767px) {
+  .menumb {
+  display: block;
+  width: 32px;
+  height: 2px;
+  background: #fff;
+  margin-bottom: 8px;
+}
+span.__cf_email__ {
+    word-break: break-all;
+}
+#id_header {
+  padding: 3px 0;
+}
+.dnonemb {
+  display: block !important;
+}
+.discuss-form .model_header h3 {
+  font-size: 20px;
+}
+.discuss-form .model_header h6 {
+  font-size: 14px;
+}
+.discuss-form .btn_outer .btn_btn {
+  margin-top: 0 !important;
+}
+.banner .col1 .welcome_content {
+  padding-top: 0 !important;
+}
+.banner {
+  padding-top: 100px;
+}
+.discuss-form.modal .model_body .col1 .form_input {
+  height: 32px;
+}
+.discuss-form.modal .model_body .col1 textarea.form_input {
+  height: inherit;
+}
+.discuss-form.modal .model_body .col1 .form_label {
+  font-size: 13px;
+}
+.discuss-form.modal .modal .model_body .col1 {
+  margin-bottom: 5px;
+}
+.modal .model_body {
+  padding: 20px 25px;
+}
+.modal .model_body .col1 {
+  margin-bottom: 5px;
+}
+header .navbar .collapse ul li a:hover {
+  color: #fff !important;
+}
+.sticky-top .navbar ul li a {
+  color: #fff !important;
+  font-size: 16px !important;
+  letter-spacing: 1px;
+}
+.sticky-top .navbar  ul li button {
+  background: #ffc665 !important;
+  color: #000 !important;
+}
+#id_header.sticky-top, #id_header {
+  background: #000 !important;
+}
+
+}
+
+@media (max-width: 400px) {
+  .img-video {
+    width: 100%;
+  }
+}
