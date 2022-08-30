@@ -81,9 +81,7 @@ header .navbar button i{
 header .navbar button:focus{
   outline: none;
 }
-header .navbar .rahul img{
-  width: 60px;
-}
+
 header .navbar .collapse ul li{
   margin-left: 20px;
 }
@@ -1538,4 +1536,7 @@ header .navbar .collapse ul li a:hover {
   .img-video {
     width: 100%;
   }
+  header .navbar .rahul img {
+  width: 100px;
+}
 }
