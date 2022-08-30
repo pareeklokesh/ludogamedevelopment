@@ -1416,14 +1416,7 @@ footer .icon_fixed .whatsapp_fixed {
 .callbtn i img {
   width: 18px;
 }
-.callbtn i {
-  width: 40px;
-  height: 40px;
-  display: flex;
-  border-radius: 50%;
-  align-items: center;
-  justify-content: center;
-}
+
 #myModal {
   z-index: 999999;
 }
@@ -1501,6 +1494,9 @@ header .navbar .collapse ul li a:hover {
 }
 #id_header.sticky-top, #id_header {
   background: #000 !important;
+}
+.discuss-form {
+  padding-top: 60px;
 }
 
 }
