@@ -1508,6 +1508,29 @@ header .navbar .collapse ul li a:hover {
 .sticky-top .navbar .collapse ul li button {
   margin-top: 8px;
 }
+.discuss-form .model_header h3 {
+  font-size: 18px;padding-top: 5px !important;padding-right: 18px;
+}
+.discuss-form .model_header .close {
+  top: -4px !important;
+}
+.discuss-form, .discuss-form * {
+  transition: none !important;
+  opacity: 1 !important;
+}
+.discuss-form .model_header {
+  padding: 0 5px;
+}
+.discuss-form .model_header .close {
+  top: 0px !important;
+  right: 5px !important;
+}
+.discuss-form {
+  padding-top: 60px;
+}
+.discuss-form .model_body {
+  padding-top: 10px !important;
+}
 
 }
 
