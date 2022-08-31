@@ -1440,7 +1440,7 @@ span.__cf_email__ {
     word-break: break-all;
 }
 #id_header {
-  padding: 15px 0;
+  padding: 20px 0;
 }
 .dnonemb {
   display: block !important;
@@ -1537,6 +1537,6 @@ header .navbar .collapse ul li a:hover {
     width: 100%;
   }
   header .navbar .rahul img {
-  width: 100px;
+  width: 140px;
 }
 }
